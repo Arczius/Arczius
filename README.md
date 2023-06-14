@@ -15,8 +15,13 @@
   </picture>
 </div>
 
+<br/>
 
-<div style="display: flex; align-items: center; gap: .4rem; padding-top: 0.8rem;">
+![visitors](https://vbr.wocr.tk/badge?page_id=Arczius.Arczius&lcolor=2B213A&color=E5289E&style=for-the-badge)
+
+<br/>
+
+<div style="display: flex; align-items: center; gap: .4rem;">
   <span>
     <img
       src="https://github-readme-stats.vercel.app/api?username=Arczius&show_icons=true&theme=synthwave&hide_border=true"
