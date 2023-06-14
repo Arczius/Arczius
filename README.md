@@ -16,7 +16,7 @@
 </div>
 
 
-<div style="display: flex; align-items: center; gap: .4rem;">
+<div style="display: flex; align-items: center; gap: .4rem; padding-top: 0.8rem;">
   <span>
     <img
       src="https://github-readme-stats.vercel.app/api?username=Arczius&show_icons=true&theme=synthwave&hide_border=true"
